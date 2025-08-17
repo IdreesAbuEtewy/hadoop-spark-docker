@@ -1,0 +1,15 @@
+.git/
+.gitignore
+.gitattributes
+.dockerignore
+Dockerfile
+Dockerfile.*
+*.yml
+*.yaml
+LICENSE
+LICENSE.*
+README
+README.*
+download.*
+init.*
+.password
