@@ -1,6 +1,6 @@
 hadoop*.tar.gz
 spark*.tgz
 apache-hive*.tar.gz
-
+myfiles/reducing_network_overhead*
 *.aux.yml
 sql/
